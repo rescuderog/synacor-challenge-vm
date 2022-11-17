@@ -1,0 +1,1 @@
+This is a project made on python to try to solve the synacor challenge. I'm trying to make a VM that can read and execute the binary provided in the challenge. I'll keep noting things that pique my curiosity along the way.
